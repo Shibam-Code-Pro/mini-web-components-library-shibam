@@ -2,6 +2,10 @@
 
 Hi! This is my learning project where I built 7 simple UI components using HTML, CSS, JavaScript, and Bootstrap. I'm a beginner learning frontend development, and this project helped me understand how to create interactive web components.
 
+## 🚀 Live Demo
+
+[View Live Mini Web Components Library](https://Shibam-Code-Pro.github.io/mini-web-components-library-shibam)
+
 ## 🚀 What I Built
 
 I created 7 different components that you can use in your own projects:
@@ -139,3 +143,15 @@ This is my learning project, but if you have ideas to make it better, I'd love t
 ---
 
 **Built with ❤️ while learning frontend development**
+
+---
+
+## 📞 Contact
+
+- **Email**: Connect-With-Shibam@outlook.com
+- **LinkedIn**: [linkedin.com/in/shibam-webdev](https://linkedin.com/in/shibam-webdev)
+- **GitHub**: [github.com/Shibam-Code-Pro](https://github.com/Shibam-Code-Pro)
+
+---
+
+⭐ If you found this project helpful, please give it a star on GitHub!
