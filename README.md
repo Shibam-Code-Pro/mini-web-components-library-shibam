@@ -4,7 +4,7 @@ Hi! This is my learning project where I built 7 simple UI components using HTML,
 
 ## 🚀 Live Demo
 
-[View Live Mini Web Components Library](https://Shibam-Code-Pro.github.io/mini-web-components-library-shibam)
+[View Live Mini Web Components Library](https://mini-web-components-library-shibam.netlify.app)
 
 ## 🚀 What I Built
 
