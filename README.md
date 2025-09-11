@@ -15,6 +15,10 @@ Hi! This is my learning project where I built 7 simple UI components using HTML,
   <p><em>Dark-themed component library showcasing interactive UI elements with code examples</em></p>
 </div>
 
+## 🚀 Live Demo
+
+[View Live Mini Web Components Library](https://mini-web-components-library-shibam.netlify.app/)
+
 ## 🚀 What I Built
 
 I created 7 different components that you can use in your own projects:
