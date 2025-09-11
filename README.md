@@ -1,6 +1,19 @@
-# My Mini Components Library
+# 🧩 My Mini Components Library
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Components](https://img.shields.io/badge/Components-00D4AA?style=for-the-badge&logo=webcomponents.org&logoColor=white)
 
 Hi! This is my learning project where I built 7 simple UI components using HTML, CSS, JavaScript, and Bootstrap. I'm a beginner learning frontend development, and this project helped me understand how to create interactive web components.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshot/mini-web-components-library-shibam.png" alt="Mini Web Components Library Screenshot" width="800">
+  <p><em>Dark-themed component library showcasing interactive UI elements with code examples</em></p>
+</div>
 
 ## 🚀 What I Built
 
@@ -71,15 +84,28 @@ Here's how I organized my project files:
 
 ```
 mini-web-components-library-shibam/
-├── index.html          # Main demo page (start here!)
-├── css/
+├── 📄 index.html          # Main demo page (start here!)
+├── 🎨 css/
 │   └── style.css       # My custom dark theme styles
-├── js/
+├── ⚡ js/
 │   └── components.js   # All 7 component functions
-├── README.md           # This file - project documentation
-├── LICENSE             # MIT license for the project
-└── .gitignore          # Files to ignore in version control
+├── 📸 screenshot/         # Project screenshots
+│   └── mini-web-components-library-shibam.png
+├── 📖 README.md           # This file - project documentation
+├── 📜 LICENSE             # MIT license for the project
+└── 🚫 .gitignore          # Files to ignore in version control
 ```
+
+## 🛠️ Technologies Used
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br><b>HTML5</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br><b>CSS3</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br><b>JavaScript</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><br><b>Bootstrap</b></td>
+</tr>
+</table>
 
 **What each file does:**
 - `index.html` - The main page where you can see all components in action
